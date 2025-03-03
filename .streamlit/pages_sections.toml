@@ -1,0 +1,11 @@
+[[pages]]
+path = "src/haystack.py"
+name = "Chat with your pdf"
+
+[[pages]]
+path = "src/llm_configurations.py"
+name = "LLM configurations"
+
+[[pages]]
+path = "src/embedding_configurations.py"
+name = "Embedding configurations"
